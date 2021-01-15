@@ -1,8 +1,11 @@
 # Today i learned: META SEO
 
 ## What is this?
+<p>Meta tags are html tags used for google SEO description and optimization</p>
 
-### META SEO are html tags used within <head> to contribute and help google SEO
+# Why are meta tags important?
+<p>Como as meta descriptions aparecem com seu título e URL nas páginas de resultados, elas têm o poder de ajudar ou prejudicar as taxas de cliques dos seus resultados. A pesquisa mostrou que a palavra-chave no corpo da meta tag é um sinal de relevância para os mecanismos de pesquisa que pode ajudar no seu ranqueamento.</p>
+
 
 ## Top meta tags
 
