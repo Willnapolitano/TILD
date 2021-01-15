@@ -4,7 +4,7 @@
 <p>Meta tags are html tags used for google SEO description and optimization</p>
 
 # Why are meta tags important?
-<p>Como as meta descriptions aparecem com seu título e URL nas páginas de resultados, elas têm o poder de ajudar ou prejudicar as taxas de cliques dos seus resultados. A pesquisa mostrou que a palavra-chave no corpo da meta tag é um sinal de relevância para os mecanismos de pesquisa que pode ajudar no seu ranqueamento.</p>
+<p>Since meta descriptions appear with their title and URL on the results pages, they have the power to help or hinder the clickthrough rates of your results. Research has shown that the keyword in the body of the meta tag is a sign of relevance to search engines that can help with your ranking.</p>
 
 
 ## Top meta tags
